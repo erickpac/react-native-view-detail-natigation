@@ -41,12 +41,11 @@ A brief description of what the project does and who it's for.
 ## Project Structure
 
 Briefly explain the structure of the project, e.g.:
-project-name/
-├── assets/ # Static assets (images, fonts, etc.)
-├── components/ # Reusable components
-├── screens/ # Screen components
-├── navigation/ # Navigation setup
-├── App.js # Entry point of the application
-├── app.json # Expo configuration file
-├── package.json # Project dependencies and scripts
-└── README.md # Project documentation
+    react-native-example/
+        ├── build                   # Compiled files (alternatively `dist`)
+        ├── docs                    # Documentation files (alternatively `doc`)
+        ├── src                     # Source files (alternatively `lib` or `app`)
+        ├── test                    # Automated tests (alternatively `spec` or `tests`)
+        ├── tools                   # Tools and utilities
+        ├── LICENSE
+        └── README.md
