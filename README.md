@@ -41,11 +41,12 @@ A brief description of what the project does and who it's for.
 ## Project Structure
 
 Briefly explain the structure of the project, e.g.:
-    react-native-example/
-        ├── build                   # Compiled files (alternatively `dist`)
-        ├── docs                    # Documentation files (alternatively `doc`)
-        ├── src                     # Source files (alternatively `lib` or `app`)
-        ├── test                    # Automated tests (alternatively `spec` or `tests`)
-        ├── tools                   # Tools and utilities
-        ├── LICENSE
-        └── README.md
+`react-native-example/`
+    
+    ├── build                   # Compiled files (alternatively `dist`)
+    ├── docs                    # Documentation files (alternatively `doc`)
+    ├── src                     # Source files (alternatively `lib` or `app`)
+    ├── test                    # Automated tests (alternatively `spec` or `tests`)
+    ├── tools                   # Tools and utilities
+    ├── LICENSE
+    └── README.md
