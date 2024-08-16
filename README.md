@@ -1,5 +1,5 @@
 
-# React Native example
+# React Native view-detail navigation
 
 A brief description of what the project does and who it's for.
 
